@@ -101,7 +101,7 @@ Video Anomaly Detection, Multi-modal Learning, Multi-modal Large Language Models
     <!-- 文字信息 -->
     <div style="flex: 1; font-family: 'Times New Roman', serif; font-size: 0.9em;">
         <h3 style="margin: 0 0 6px 0; font-size: 1.1em; color: #333;">
-            Violent video recognition based on global-local visual and audio contrastive learning
+            Violent Video Recognition Based on Global-local Visual and Audio Contrastive Learning
         </h3>
         <p style="margin: 4px 0; color: #666;">
             <span style="font-weight: 600;">Zihao Liu</span>, Xiaoyu Wu*, Shengjin Wang, Yimeng Shang.

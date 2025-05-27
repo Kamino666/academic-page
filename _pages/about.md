@@ -24,6 +24,28 @@ Video Anomaly Detection, Multi-modal Learning, Multi-modal Large Language Models
 
 ## Publications
 
+<!-- 预印 Rethinking -->
+<div style="display: flex; align-items: center; gap: 15px; margin: 10px 0; border: 1px solid #eee; padding: 12px; border-radius: 4px;">
+    <!-- 缩略图 -->
+    <img src="files/Rethinking.png" alt="Paper Thumbnail" style="width: 40%; height: auto; object-fit: contain;">
+    
+    <!-- 文字信息 -->
+    <div style="flex: 1; font-family: 'Times New Roman', serif; font-size: 0.9em;">
+        <h3 style="margin: 0 0 6px 0; font-size: 1.1em; color: #333;">
+            Rethinking Metrics and Benchmarks of Video Anomaly Detection
+        </h3>
+        <p style="margin: 4px 0; color: #666;">
+            <span style="font-weight: 600;">Zihao Liu</span>, Xiaoyu Wu*,  Wenna Li, Linlin Yang.
+        </p>
+        <p style="margin: 4px 0; color: #777;">
+            ArXiv, under review, 2025
+        </p>
+        <p style="margin: 4px 0;">
+            <a href="https://arxiv.org/abs/2505.19022" target="_blank" style="text-decoration: none; color: #0066cc;">[ArXiv]</a>
+        </p>
+    </div>
+</div>
+
 <!-- 预印 LaGoVAD -->
 <div style="display: flex; align-items: center; gap: 15px; margin: 10px 0; border: 1px solid #eee; padding: 12px; border-radius: 4px;">
     <!-- 缩略图 -->

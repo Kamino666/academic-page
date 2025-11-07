@@ -35,7 +35,7 @@ Video Anomaly Detection, Multi-modal Learning, Multi-modal Large Language Models
             Rethinking Metrics and Benchmarks of Video Anomaly Detection
         </h3>
         <p style="margin: 4px 0; color: #666;">
-            <span style="font-weight: 600;">Zihao Liu</span>, Xiaoyu Wu*,  Wenna Li, Linlin Yang.
+            <span style="font-weight: 600;">Zihao Liu</span>, Xiaoyu Wu*,  Wenna Li, Linlin Yang, Shengjin Wang.
         </p>
         <p style="margin: 4px 0; color: #777;">
             ArXiv, under review, 2025
@@ -54,7 +54,7 @@ Video Anomaly Detection, Multi-modal Learning, Multi-modal Large Language Models
     <!-- 文字信息 -->
     <div style="flex: 1; font-family: 'Times New Roman', serif; font-size: 0.9em;">
         <h3 style="margin: 0 0 6px 0; font-size: 1.1em; color: #333;">
-            Language-guided Open-world Video Anomaly Detection
+            Language-guided Open-world Video Anomaly Detection under Weak Supervision
         </h3>
         <p style="margin: 4px 0; color: #666;">
             <span style="font-weight: 600;">Zihao Liu</span>, Xiaoyu Wu*, Jianqin Wu, Xuxu Wang, Linlin Yang.

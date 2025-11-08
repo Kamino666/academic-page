@@ -2,6 +2,11 @@
 
 <meta charset="utf-8">
 
+<!-- Google Fonts - Crimson Pro -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,400;0,600;0,700;1,400&display=swap" rel="stylesheet">
+
 {% include seo.html %}
 
 <link href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ base_path }}/feed.xml{% endif %}" type="application/atom+xml" rel="alternate" title="{{ site.title }} Feed">
@@ -19,3 +24,18 @@
 <link rel="stylesheet" href="{{ base_path }}/assets/css/main.css">
 
 <meta http-equiv="cleartype" content="on">
+
+<!-- 引入 Lightbox2 CSS -->
+<link href="{{ base_path }}/assets/css/lightbox.min.css" rel="stylesheet">
+<script src="{{ base_path }}/assets/js/lightbox.min.js"></script>
+
+<!-- 可选：自定义样式 -->
+<style>
+.lightbox-overlay {
+  background: rgba(0, 0, 0, 0.9);
+}
+.lightbox-image {
+  border-radius: 4px;
+  max-height: 90vh;
+}
+</style>

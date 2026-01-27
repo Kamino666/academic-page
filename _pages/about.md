@@ -16,6 +16,10 @@ I am currently a Master's student at the Communication University of China (CUC)
 
 Video Understanding, Video Anomaly Detection, Multi-modal Learning, Multi-modal Large Language Models.
 
+## News
+
+- 2026.01.27: One paper accepted to ICLR 2026.
+
 ## Education
 
 <!-- 硕士教育经历 -->
@@ -121,7 +125,7 @@ Video Understanding, Video Anomaly Detection, Multi-modal Learning, Multi-modal 
             <span style="font-weight: 600;">Zihao Liu</span>, Xiaoyu Wu*, Jianqin Wu, Xuxu Wang, Linlin Yang.
         </p>
         <p style="margin: 4px 0; color: #777;">
-            ArXiv, under review, 2025
+            ICLR 2026
         </p>
         <p style="margin: 4px 0;">
             <a href="https://arxiv.org/abs/2503.13160" target="_blank" style="text-decoration: none; color: #0066cc;">[ArXiv]</a>

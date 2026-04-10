@@ -7,10 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Master's student at the Communication University of China (CUC), supervised by Xiaoyu Wu. **Actively seeking PhD opportunities in Multimodal LLMs, video/multi-modality understanding**.
+I am currently a Master's student at the Communication University of China (CUC), supervised by Xiaoyu Wu. **Incoming PhD student in a joint program between HITSZ and ZGCA, starting in September 2026.**
 
 - Github: [https://github.com/Kamino666](https://github.com/Kamino666)
-- Blog: [https://blog.kamino.link/](https://blog.kamino.link/)
+- Blog: [https://blog.lab-kamino.com/](https://blog.lab-kamino.com/)
 
 ## Research Interests
 
@@ -18,6 +18,7 @@ Video Understanding, Video Anomaly Detection, Multi-modal Learning, Multi-modal 
 
 ## News
 
+- 2026.04.10: Our new preprint paper of efficient & streaming & open-world VAD is available on ArXiv.
 - 2026.01.27: One paper accepted to ICLR 2026.
 
 ## Education
@@ -78,6 +79,33 @@ Video Understanding, Video Anomaly Detection, Multi-modal Learning, Multi-modal 
 </div>
 
 ## Publications
+
+<!-- 预印 ESOM -->
+<div style="display: flex; align-items: center; gap: 15px; margin: 10px 0; border: 1px solid #eee; padding: 12px; border-radius: 4px;">
+    <!-- 缩略图 -->
+    <a href="files/ESOM.png" data-lightbox="ESOM" data-title="ESOM: Efficiently Understanding Streaming Video Anomalies with Open-world Dynamic Definitions"
+       style="display: inline-block; width: 40%; text-decoration: none;">
+        <img src="files/ESOM.png" alt="Paper Thumbnail" 
+             style="width: 100%; height: auto; object-fit: contain; cursor: pointer;">
+    </a>
+    
+    <!-- 文字信息 -->
+    <div style="flex: 1; font-family: 'Crimson Pro', 'Times New Roman', serif; font-size: 0.9em;">
+        <h3 style="margin: 0 0 6px 0; font-size: 1.1em; color: #333;">
+            ESOM: Efficiently Understanding Streaming Video Anomalies with Open-world Dynamic Definitions
+        </h3>
+        <p style="margin: 4px 0; color: #666;">
+            <span style="font-weight: 600;">Zihao Liu</span>, Xiaoyu Wu*, Wenna Li, Jianqin Wu, Linlin Yang.
+        </p>
+        <p style="margin: 4px 0; color: #777;">
+            ArXiv, under review, 2026
+        </p>
+        <p style="margin: 4px 0;">
+            <a href="https://arxiv.org/abs/2604.07772" target="_blank" style="text-decoration: none; color: #0066cc;">[ArXiv]</a>
+            <a href="https://github.com/Kamino666/ESOM_OpenDef-Bench" target="_blank" style="text-decoration: none; color: #0066cc; margin-left: 10px;">[Code]</a>
+        </p>
+    </div>
+</div>
 
 <!-- 预印 Rethinking -->
 <div style="display: flex; align-items: center; gap: 15px; margin: 10px 0; border: 1px solid #eee; padding: 12px; border-radius: 4px;">
@@ -267,16 +295,16 @@ Video Understanding, Video Anomaly Detection, Multi-modal Learning, Multi-modal 
     </div>
 </div>
 
-<!-- SME 论文 -->
+<!-- SME 论文 (MDPI) Commented Out
 <div style="display: flex; align-items: center; gap: 15px; margin: 10px 0; border: 1px solid #eee; padding: 12px; border-radius: 4px;">
-    <!-- 缩略图 -->
+    <!- 缩略图 ->
     <a href="files/SME.png" data-lightbox="SME" data-title="Multi-task Video Captioning with a Stepwise Multimodal Encoder"
        style="display: inline-block; width: 40%; text-decoration: none;">
         <img src="files/SME.png" alt="Paper Thumbnail" 
              style="width: 100%; height: auto; object-fit: contain; cursor: pointer;">
     </a>
     
-    <!-- 文字信息 -->
+    <!- 文字信息 ->
     <div style="flex: 1; font-family: 'Crimson Pro', 'Times New Roman', serif; font-size: 0.9em;">
         <h3 style="margin: 0 0 6px 0; font-size: 1.1em; color: #333;">
             Multi-task Video Captioning with a Stepwise Multimodal Encoder
@@ -293,3 +321,4 @@ Video Understanding, Video Anomaly Detection, Multi-modal Learning, Multi-modal 
         </p>
     </div>
 </div>
+-->

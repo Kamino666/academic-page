@@ -7,14 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Master's student at the Communication University of China (CUC), supervised by Xiaoyu Wu. **Incoming PhD student in a joint program between HITSZ and ZGCA, starting in September 2026.**
+I am currently a joint Ph.D. student at [Beijing Zhongguancun Academy (ZGCA)](https://www.bza.edu.cn/en/) and [Harbin Institute of Technology, Shenzhen (HITsz)](https://www.hitsz.edu.cn/), supervised by [Prof. Dr. Zhuotao Tian](https://zhuotaotian.github.io/).
 
 - Github: [https://github.com/Kamino666](https://github.com/Kamino666)
 - Blog: [https://blog.lab-kamino.com/](https://blog.lab-kamino.com/)
 
 ## Research Interests
 
-Video Understanding, Video Anomaly Detection, Multi-modal Learning, Multi-modal Large Language Models.
+AI for Games, Video Understanding, Video Anomaly Detection, Multi-modal Large Language Models.
 
 ## News
 
@@ -23,60 +23,69 @@ Video Understanding, Video Anomaly Detection, Multi-modal Learning, Multi-modal 
 
 ## Education
 
-<!-- 硕士教育经历 -->
-<div style="display: flex; align-items: center; gap: 15px; margin: 10px 0; border: 1px solid #eee; padding: 15px; border-radius: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
-    <!-- 学校Logo -->
-    <div style="display: flex; justify-content: center; align-items: center; min-width: 80px;">
-        <img src="files/cuc-logo.svg" alt="Communication University of China" 
-             style="width: 60px; height: 60px; object-fit: contain; border-radius: 4px;">
+<!-- 博士教育经历（联合培养） -->
+<div class="education-card education-card--joint">
+    <div class="education-card__logo-panel education-card__logo-panel--joint" aria-label="Joint Ph.D. institutions">
+        <a class="education-card__logo-link education-card__logo-link--zgca" href="https://www.bza.edu.cn/en/" target="_blank" rel="noopener noreferrer" aria-label="Beijing Zhongguancun Academy website">
+            <img src="/files/zgca-logo.svg" width="96" height="27" alt="Beijing Zhongguancun Academy logo">
+        </a>
+        <span class="education-card__joint-mark" aria-hidden="true">×</span>
+        <a class="education-card__logo-link education-card__logo-link--hit" href="https://www.hitsz.edu.cn/" target="_blank" rel="noopener noreferrer" aria-label="Harbin Institute of Technology, Shenzhen website">
+            <img src="/files/hit-logo.svg" width="52" height="47" alt="Harbin Institute of Technology logo">
+        </a>
     </div>
-    
-    <!-- 教育信息 -->
-    <div style="flex: 1;">
-        <div style="display: flex; justify-content: space-between; align-items: flex-start;">
-            <h3 style="margin: 0 0 0 0; font-size: 1.1em; color: #333;">
-                Communication University of China
-            </h3>
-            <div style="color: #666; font-weight: 500;">
-                2023 - Present
-            </div>
+    <div class="education-card__content">
+        <div class="education-card__header">
+            <h3>Beijing Zhongguancun Academy &amp; Harbin Institute of Technology, Shenzhen</h3>
+            <div class="education-card__date">2026 – Present</div>
         </div>
-        <p style="margin: 0 0; color: #444; font-weight: 500; font-family: 'Crimson Pro', 'Times New Roman', serif; font-size: 0.9em;">
-            Signal and Information Processing, Master's Degree
+        <p class="education-card__degree">Ph.D. Student · Joint Training Program</p>
+        <p class="education-card__detail">
+            <strong>Supervisor:</strong> <a href="https://zhuotaotian.github.io/" target="_blank" rel="noopener noreferrer">Prof. Dr. Zhuotao Tian</a>
         </p>
-        <p style="margin: 0 0 0 0; color: #666; line-height: 1.4; font-family: 'Crimson Pro', 'Times New Roman', serif; font-size: 0.9em;">
+    </div>
+</div>
+
+<!-- 硕士教育经历 -->
+<div class="education-card">
+    <div class="education-card__logo-panel">
+        <a class="education-card__logo-link education-card__logo-link--cuc" href="https://www.cuc.edu.cn/" target="_blank" rel="noopener noreferrer" aria-label="Communication University of China website">
+            <img src="/files/cuc-logo.svg" width="64" height="64" alt="Communication University of China logo">
+        </a>
+    </div>
+    <div class="education-card__content">
+        <div class="education-card__header">
+            <h3>Communication University of China</h3>
+            <div class="education-card__date">2023 – 2026</div>
+        </div>
+        <p class="education-card__degree">Signal and Information Processing, Master's Degree</p>
+        <p class="education-card__detail">
             <strong>Supervisor:</strong> <a href="https://ices.cuc.edu.cn/2019/0919/c5332a135735/page.htm" target="_blank" rel="noopener noreferrer">Xiaoyu Wu</a><br>
-            <strong>GPA:</strong> 3.8/4.0<br>
+            <strong>GPA:</strong> 3.8/4.0
         </p>
     </div>
 </div>
 
 <!-- 本科教育经历 -->
-<div style="display: flex; align-items: center; gap: 15px; margin: 10px 0; border: 1px solid #eee; padding: 15px; border-radius: 6px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
-    <!-- 学校Logo -->
-    <div style="display: flex; justify-content: center; align-items: center; min-width: 80px;">
-        <img src="files/cuc-logo.svg" alt="Communication University of China" 
-             style="width: 60px; height: 60px; object-fit: contain; border-radius: 4px;">
+<div class="education-card">
+    <div class="education-card__logo-panel">
+        <a class="education-card__logo-link education-card__logo-link--cuc" href="https://www.cuc.edu.cn/" target="_blank" rel="noopener noreferrer" aria-label="Communication University of China website">
+            <img src="/files/cuc-logo.svg" width="64" height="64" alt="Communication University of China logo">
+        </a>
     </div>
-    
-    <!-- 教育信息 -->
-    <div style="flex: 1;">
-        <div style="display: flex; justify-content: space-between; align-items: flex-start;">
-            <h3 style="margin: 0 0 0 0; font-size: 1.1em; color: #333;">
-                Communication University of China
-            </h3>
-            <div style="color: #666; font-weight: 500;">
-                2019 - 2023
-            </div>
+    <div class="education-card__content">
+        <div class="education-card__header">
+            <h3>Communication University of China</h3>
+            <div class="education-card__date">2019 – 2023</div>
         </div>
-        <p style="margin: 0 0; color: #444; font-weight: 500; font-family: 'Crimson Pro', 'Times New Roman', serif; font-size: 0.9em;">
-            Digital Media Technology, Bachelor's Degree
-        </p>
-        <p style="margin: 0 0 0 0; color: #666; line-height: 1.4; font-family: 'Crimson Pro', 'Times New Roman', serif; font-size: 0.9em;">
-            <strong>GPA:</strong> 3.8/4.0<br>
-        </p>
+        <p class="education-card__degree">Digital Media Technology, Bachelor's Degree</p>
+        <p class="education-card__detail"><strong>GPA:</strong> 3.8/4.0</p>
     </div>
 </div>
+
+## Academic Service
+
+- Reviewer for *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)*.
 
 ## Publications
 

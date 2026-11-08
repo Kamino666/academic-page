@@ -21,6 +21,7 @@ AI for Games, Agents, Video Understanding, Video Anomaly Detection, Multi-modal 
 - 2026.09: I propose [RPG Dreamer](https://rpg-dreamer.pages.dev/), an internship project for generating long-horizon games, along with RPG-Bench.
 - 2026.06: I joined [FitX](https://www.fitx.games/) as an Agent Algorithm Intern.
 - 2026.04.10: Our new preprint paper of efficient & streaming & open-world VAD is available on ArXiv.
+- 2026.02: Our work (LaGoVAD) is reported by [机器之心](https://mp.weixin.qq.com/s/ag8ERHobMHdGclZh_vNLlA).
 - 2026.01.27: One paper accepted to ICLR 2026.
 
 ## Education

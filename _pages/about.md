@@ -7,17 +7,19 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a joint Ph.D. student at [Beijing Zhongguancun Academy (ZGCA)](https://www.bza.edu.cn/en/) and [Harbin Institute of Technology, Shenzhen (HITsz)](https://www.hitsz.edu.cn/), supervised by [Prof. Dr. Zhuotao Tian](https://zhuotaotian.github.io/).
+I am currently a joint Ph.D. student at [Beijing Zhongguancun Academy (ZGCA)](https://www.bza.edu.cn/en/) and [Harbin Institute of Technology, Shenzhen (HITsz)](https://www.hitsz.edu.cn/), supervised by [Prof. Dr. Zhuotao Tian](https://zhuotaotian.github.io/) and [Dr. Jian Zhao](https://www.bza.edu.cn/teacher/b23c31e767844f93ae72c681f5927efd).
 
 - Github: [https://github.com/Kamino666](https://github.com/Kamino666)
 - Blog: [https://blog.lab-kamino.com/](https://blog.lab-kamino.com/)
 
 ## Research Interests
 
-AI for Games, Video Understanding, Video Anomaly Detection, Multi-modal Large Language Models.
+AI for Games, Agents, Video Understanding, Video Anomaly Detection, Multi-modal Large Language Models.
 
 ## News
 
+- 2026.09: I propose [RPG Dreamer](https://rpg-dreamer.pages.dev/), an internship project for generating long-horizon games, along with RPG-Bench.
+- 2026.06: I joined [FitX](https://www.fitx.games/) as an Agent Algorithm Intern.
 - 2026.04.10: Our new preprint paper of efficient & streaming & open-world VAD is available on ArXiv.
 - 2026.01.27: One paper accepted to ICLR 2026.
 
@@ -41,7 +43,7 @@ AI for Games, Video Understanding, Video Anomaly Detection, Multi-modal Large La
         </div>
         <p class="education-card__degree">Ph.D. Student · Joint Training Program</p>
         <p class="education-card__detail">
-            <strong>Supervisor:</strong> <a href="https://zhuotaotian.github.io/" target="_blank" rel="noopener noreferrer">Prof. Dr. Zhuotao Tian</a>
+            <strong>Supervisors:</strong> <a href="https://zhuotaotian.github.io/" target="_blank" rel="noopener noreferrer">Prof. Dr. Zhuotao Tian</a> and <a href="https://www.bza.edu.cn/teacher/b23c31e767844f93ae72c681f5927efd" target="_blank" rel="noopener noreferrer">Dr. Jian Zhao</a>
         </p>
     </div>
 </div>
